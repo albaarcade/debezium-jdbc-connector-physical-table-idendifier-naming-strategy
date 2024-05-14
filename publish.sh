@@ -1,0 +1,1 @@
+az artifacts universal publish --feed alba --name LogicalTableRouterTableNamingStrategy --version 2.6.1.1-alpha.1 --description "Logical Table Router Table Naming Strategy Package" --path ./publish/LogicalTableRouterTableNamingStrategy-2.6.1.1-alpha.1.jar
